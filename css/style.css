@@ -1,0 +1,52 @@
+header {
+    background-color: #FFFFF4;
+}
+
+.heading-color {
+    color: #363958;
+}
+
+.sub-heading-color {
+    color: #76C27E;
+}
+
+.btn-color {
+    background-color: #2A1E59;
+    color: white;
+}
+
+.btn-color:hover {
+    background-color: #2A1E59;
+    color: #eeeeee;
+}
+
+.section-padding {
+    padding: 5%;
+}
+
+.title-padding {
+    padding-bottom: 5%;
+}
+
+.div-radius {
+    border-radius: 15px;
+}
+
+.footer-color {
+    background-color: #eeeeee;
+}
+
+.font-properties {
+    font-size: 30px;
+    margin-top: 20px;
+    color: #1f1f1f;
+}
+
+.font-properties:hover {
+    color: #363958;
+}
+
+.subscribe-btn {
+    border-radius: 25px;
+    padding: 5px 20px;
+}
